@@ -6,7 +6,7 @@
 
 >The project is to design a E-commerce website.
 
->All the copyrights and rights goes to Saicharan Gouru(Myself designer of this website).
+>All the copyrights and rights goes to Chillamanda Durga Prasad (Myself designer of this website).
 
 >This project satisfies all the minimal characteristics given by the internship studio like image slider,home page,categories,about us,contact us,search box and etc...
 
@@ -31,11 +31,3 @@
 2. CSS3
 3. JS
 
-## Screenshots
-
-![screenshot1](screenshots/1.PNG)
-![screenshot2](screenshots/2.PNG)
-![screenshot3](screenshots/3.PNG)
-![screenshot4](screenshots/4.PNG)
-![screenshot5](screenshots/5.PNG)
-![screenshot6](screenshots/6.PNG)
